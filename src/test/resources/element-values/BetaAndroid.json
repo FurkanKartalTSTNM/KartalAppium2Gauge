@@ -1,0 +1,17 @@
+[
+  {
+    "key": "betaProfilTab",
+    "androidValue": "android:id/`bottomBarItem_Profile`",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": "id"
+  },
+  {
+    "key": "FailTabAND",
+    "androidValue": "DENEMEEEE",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  }
+
+]
