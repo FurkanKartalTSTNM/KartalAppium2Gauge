@@ -8,6 +8,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 AND_GratisBeta_Success
 ----------------
 tags: AND_GratisBeta_Success
+* "600" saniye bekle
 * Beta uygulaması izinler onaylanır
 * Profil tabina tiklanir (ANDROID)
 
