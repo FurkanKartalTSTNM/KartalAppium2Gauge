@@ -9,7 +9,7 @@ AND_GratisBeta_Success
 ----------------
 tags: AND_GratisBeta_Success
 * Beta uygulaması izinler onaylanır
-* "600" saniye bekle
+* "5" saniye bekle
 * Profil tabina tiklanir (ANDROID)
 
 
